@@ -1,2 +1,2 @@
 # React_app
-An small add, edit, delete post application totally based on React 
+An small add, edit, delete post-application completely based on React 
